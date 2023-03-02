@@ -1,0 +1,11 @@
+.screenMainDiv{
+    padding: 0px !important;
+}
+.mainContent{
+    position: relative;
+}   
+.audioPlayer{
+    position: fixed;
+    bottom: 0;
+    background-color: #1c1c1c;
+}
